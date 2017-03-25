@@ -1,1 +1,4 @@
-First Name,Last Name,Email,Company,Address1,Address2,City,State,Province,Province Code,Country,Country Code,Zipcode,Phone,Accepts Marketing,Total Spent,Total Orders,Tags,Note,Tax ExemptPikender,Sharma,pikender+1@vinsol.com,Vinsol,834,PC - 1,faridabad,Haryana,Haryana,HR,India,IN,121005,987654321,no,22.5,1,,,no
+First Name,Last Name,Email,Company,Address1,Address2,City,State,Province,Province Code,Country,Country Code,Zipcode,Phone,Accepts Marketing,Total Spent,Total Orders,Tags,Note,Tax Exempt
+John,Doe,info@example.com,basecamp,575 Te Rapa,Te Rapa ,Hamilton,Waikato,Waikato,W,New Zealand,NZ,3204,987654321,no,22.5,1256,,,no
+Ruby,Mayer,info@example.com,basecamp,575 Te Rapa,Te Rapa ,Hamilton East,Waikato,Waikato,W,New Zealand,NZ,3204,987654321,no,22.5,1256,,,no
+Susi,Mueller,info@example.com,basecamp,5235 Victoria,Te Rapa ,Invercargill South,Waikato,Waikato,W,New Zealand,NZ,3204,987654321,no,22.5,1256,,,noo
